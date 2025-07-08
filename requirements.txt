@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+pandas
+nltk
+matplotlib
+seaborn
+pdfplumber
+python-docx
+docx2txt
