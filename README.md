@@ -15,7 +15,8 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
 
 
 **Tech Stack**
- (Tool/Library  -    Purpose)                         
+ (Tool/Library  -    Purpose) 
+ 
  Python       -  Core programming language        
  Streamlit    -  Interactive web interface        
  scikit-learn -  Model training & classification  
@@ -25,7 +26,9 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
  matplotlib/seabor - Confidence visualization      
  pdfplumber / docx2txt - File text extraction        
 
+
 **Project Structure**
+
 ├── resume_classifier.py (Main Streamlit app)
 
 ├── resume_dataset_extended.csv (Training dataset)
@@ -35,6 +38,7 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
 └── README.md (Project documentation)
 
 **Dataset:**
+
 This app uses a custom dataset with labeled resumes for 9 roles:
 -Data Scientist
 -Web Developer
@@ -48,10 +52,12 @@ This app uses a custom dataset with labeled resumes for 9 roles:
 
 
 **Model Used**
+
 -TF-IDF Vectorizer for resume text embedding
 -Logistic Regression for classification
 
 **Live Demo**
+
 Try it here:
 https://resume-ai-classifier.streamlit.app/
 
