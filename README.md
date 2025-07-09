@@ -1,4 +1,4 @@
-**AI-Powered Resume Classifier**
+****AI-Powered Resume Classifier****
 
 A smart web app built with Streamlit that classifies resumes into job categories like **Data Scientist**, **Web Developer**, **HR**, and more.
 Users can either **paste their resume text** or **upload PDF/DOCX files** to receive predictions instantly.
@@ -15,7 +15,7 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
 
 
 **Tech Stack**
- Tool/Library  -    Purpose                         
+ (Tool/Library  -    Purpose)                         
  Python       -  Core programming language        
  Streamlit    -  Interactive web interface        
  scikit-learn -  Model training & classification  
