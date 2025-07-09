@@ -24,7 +24,8 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
  nltk         -  Text preprocessing               
  TfidfVectorizer - Feature extraction from text     
  matplotlib/seabor - Confidence visualization      
- pdfplumber / docx2txt - File text extraction        
+ pdfplumber / docx2txt - File text extraction 
+ 
 
 
 **Project Structure**
@@ -37,28 +38,43 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
 
 └── README.md (Project documentation)
 
+
+
 **Dataset:**
 
 This app uses a custom dataset with labeled resumes for 9 roles:
+
 -Data Scientist
+
 -Web Developer
+
 -HR
+
 -Software Engineer
+
 -UI/UX Designer
+
 -Project Manager
+
 -Business Analyst
+
 -DevOps Engineer
+
 -Cybersecurity Analyst
+
 
 
 **Model Used**
 
 -TF-IDF Vectorizer for resume text embedding
+
 -Logistic Regression for classification
+
 
 **Live Demo**
 
 Try it here:
+
 https://resume-ai-classifier.streamlit.app/
 
 
