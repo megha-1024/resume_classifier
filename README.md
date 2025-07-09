@@ -6,7 +6,7 @@ Users can either **paste their resume text** or **upload PDF/DOCX files** to rec
 Built for aspiring data scientists and job-seekers to get quick insights into how their resume is perceived by AI.
 
 
-**Features**
+**#Features:**
 -  Upload resumes in PDF, DOCX, or TXT format
 -  Paste plain resume text directly
 -  Predicts job role using trained ML model
@@ -14,7 +14,7 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
 -  Hosted using [Streamlit Cloud](https://streamlit.io/cloud)
 
 
-**Tech Stack**
+**#Tech Stack:**
  (Tool/Library  -    Purpose) 
  
  Python       -  Core programming language        
@@ -28,7 +28,7 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
  
 
 
-**Project Structure**
+**#Project Structure:**
 
 ├── resume_classifier.py (Main Streamlit app)
 
@@ -40,7 +40,7 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
 
 
 
-**Dataset:**
+**#Dataset:**
 
 This app uses a custom dataset with labeled resumes for 9 roles:
 
@@ -64,14 +64,14 @@ This app uses a custom dataset with labeled resumes for 9 roles:
 
 
 
-**Model Used**
+**#Model Used:**
 
 -TF-IDF Vectorizer for resume text embedding
 
 -Logistic Regression for classification
 
 
-**Live Demo**
+**#Live Demo:**
 
 Try it here:
 
