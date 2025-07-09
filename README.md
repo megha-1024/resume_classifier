@@ -17,7 +17,6 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
 **Tech Stack**
 
  Tool/Library  -    Purpose                         
-----------------------------------------------------
  Python       -  Core programming language        
  Streamlit    -  Interactive web interface        
  scikit-learn -  Model training & classification  
