@@ -28,10 +28,10 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
  pdfplumber / docx2txt - File text extraction        
 
 **Project Structure**
-├── resume_classifier.py # Main Streamlit app
-├── resume_dataset_extended.csv # Training dataset
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── resume_classifier.py (Main Streamlit app)
+├── resume_dataset_extended.csv (Training dataset)
+├── requirements.txt (Project dependencies)
+└── README.md (Project documentation)
 
 **Dataset:**
 This app uses a custom dataset with labeled resumes for 9 roles:
