@@ -15,7 +15,6 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
 
 
 **Tech Stack**
-
  Tool/Library  -    Purpose                         
  Python       -  Core programming language        
  Streamlit    -  Interactive web interface        
@@ -28,8 +27,11 @@ Built for aspiring data scientists and job-seekers to get quick insights into ho
 
 **Project Structure**
 ├── resume_classifier.py (Main Streamlit app)
+
 ├── resume_dataset_extended.csv (Training dataset)
+
 ├── requirements.txt (Project dependencies)
+
 └── README.md (Project documentation)
 
 **Dataset:**
