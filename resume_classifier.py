@@ -77,7 +77,7 @@ def recommend_missing_skills(predicted_role, extracted_skills):
     return missing
 
 #Load Dataset & Train Model 
-df = pd.read_csv('C:\\Users\\Megha\\OneDrive\\Documents\\achive and projects\\AI based resume classifier\\resume_dataset.csv')
+df = pd.read_csv('resume_dataset.csv')
 df["cleaned"] = df["Resume"].apply(clean_resume)
 
 tfidf = TfidfVectorizer(max_features=3000)
